@@ -1,4 +1,4 @@
-
+//"""creating class and testing location access conditional."""
 public class TestaCondicional2 {
 
     public static void main(String[] args){
@@ -14,6 +14,7 @@ public class TestaCondicional2 {
         } else {
             System.out.println("infelizmente voce nao pode entrar");
         }
-
+        //"""handling exceptions."""
     }
+
 }

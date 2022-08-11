@@ -1,3 +1,5 @@
+//"""creating class and a condition when returning the counter."""
+
 public class TesteFor {
 
     public static void main(String[] args) {

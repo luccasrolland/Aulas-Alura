@@ -1,3 +1,5 @@
+//"""Creating class to test print function."""
+
 public class TestaCaracteres{
 
     public static void main(String[] args){
@@ -5,10 +7,10 @@ public class TestaCaracteres{
         char letra = 'a';
         System.out.println(letra);
 
-        char valor = 65;                    // Compila!
+        char valor = 65;
         System.out.println(valor);
 
-        valor = (char) (valor + 1);         // Compila!
+        valor = (char) (valor + 1);
         System.out.println(valor);
 
         String palavra = "alura cursos online de tecnologia";
@@ -16,5 +18,7 @@ public class TestaCaracteres{
 
         palavra = palavra + 2020;
         System.out.println(palavra);
+
+        //"""function which returns the concatenation"""
     }
 }
