@@ -1,3 +1,5 @@
+//"""creating class and testing loops."""
+
 public class TestaLaco3 {
     //coluna <= linha  restante do for
     public static void main(String[] args){

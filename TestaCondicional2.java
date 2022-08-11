@@ -1,4 +1,5 @@
 //"""creating class and testing location access conditional."""
+
 public class TestaCondicional2 {
 
     public static void main(String[] args){

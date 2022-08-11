@@ -1,3 +1,5 @@
+//"""creating class and testing the scope of functions."""
+
 public class TestaEscopo {
 
     public static void main(String[] args){

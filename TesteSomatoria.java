@@ -1,4 +1,6 @@
-public class TestaSomatoria {
+//""creating class and testing summation conditional."""
+
+public class TesteSomatoria {
 
     public static void main(String[] args) {
         int contador = 0;
